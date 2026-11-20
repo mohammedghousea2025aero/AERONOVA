@@ -1,0 +1,6 @@
+{
+  "name": "FareSense",
+  "description": "Domestic India flight fare tracker and booking-decision dashboard comparing today's lowest fare against the 30-day median with interactive price history and fare alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
